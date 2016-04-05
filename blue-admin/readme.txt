@@ -10,7 +10,7 @@ Tested up to: 4.4
 License: GPLv2 or later 
 Plugin URI: https://lineshjose.com/projects/blue-admin/
 Tags: Blue Admin,clearadmin,clear,admin,theme,admin theme,administration,WordPress administration,facebook style,facebook looks-like,blue,blue admin bar,custom menus,custom navigation,adminbar navigation,adminbar menus 
-Donate link: http://bit.ly/donate-blue-admin 
+Donate link: https://lineshjose.com/make-a-donation/
 
  
 This is a simple admin design that makes your WordPress administration section more clear and relaxed. 
