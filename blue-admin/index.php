@@ -16,7 +16,7 @@ function get_ba_options($option){
 					'version'=>'16.01', 
 					'url'=> plugin_dir_url(__FILE__),
 					'path'=> plugin_dir_path(__FILE__),
-					'donate'=>'http://bit.ly/donate-blue-admin',
+					'donate'=>'https://lineshjose.com/make-a-donation/',
 					'support'=> 'https://lineshjose.com/projects/blue-admin/',
 					'settings'=>array (	
 							 		array(  
