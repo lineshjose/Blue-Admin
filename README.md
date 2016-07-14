@@ -7,7 +7,7 @@ Description
 ==========
 This is a simple and clear admin design that makes your **WordPress** administration section more clear and relaxed. Read more about **[Blue Admin](http://linesh.com/projects/blue-admin/)**. 
 
-**[Download](https://wordpress.org/plugins/blue-admin/)**. 
+**[Download](http://linesh.com/projects/blue-admin/)**. 
 **[support](http://linesh.com/forums/forum/plugins/blue-admin/)**. 
 
 
