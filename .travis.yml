@@ -14,4 +14,3 @@ matrix:
   include:
     - php: 5.6
       env: WP_VERSION=latest WP_MULTISITE=1
-
