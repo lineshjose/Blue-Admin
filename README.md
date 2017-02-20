@@ -1,4 +1,4 @@
-# WordStar
+# Blue-Admin
 
 This is a simple and clear admin design that makes your **WordPress** administration section more clear and relaxed. Read more about **[Blue Admin](http://linesh.com/projects/blue-admin/)**. 
 
