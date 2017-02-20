@@ -1,37 +1,25 @@
-Blue-Admin
-==========
+# WordStar
 
-Blue Admin – WordPress Admin Panel theme
-
-Description
-==========
 This is a simple and clear admin design that makes your **WordPress** administration section more clear and relaxed. Read more about **[Blue Admin](http://linesh.com/projects/blue-admin/)**. 
 
-**[Download](http://linesh.com/projects/blue-admin/)**. 
-**[support](http://linesh.com/forums/forum/plugins/blue-admin/)**. 
+![beautiful screenshot](https://ps.w.org/blue-admin/assets/screenshot-1.jpg?rev=1455180)
+
+## Features
+
+1. Clean and clear admin design.
+2. Centralized color schemes collection.
+3. WordPress Login page customization. [Watch Video](http://bit.ly/1Wi8iC0)
+4. WordPress Multisite compatibility. [Watch Video](http://bit.ly/24FbFZ0)
+5. Custom navigation menus to your WordPress Adminbar.(only compatible for WordPress 3.3 or above versions)
+6. RTL support for Arabic and other RTL languages
+7. Free of cost
+
+## Download
+Yoy can download latest version from [WordPress.org](https://wordpress.org/plugins/blue-admin/).
+
+## Troubleshooting
+If you have any problems running Blue Admin, [Support Forum](https://linesh.com/forums/forum/plugins/blue-admin/).
 
 
-Installation:
-------------------------------------
-1: Extract the downloaded .zip file in a convenient location
-
-2: upload the 'blue-admin' folder to '/wp-content/plugins/' directory in your web server.
-
-3: Log in to the WordPress Administration Dashboard
-
-4: Select the 'Plugins' menu
-
-5: Find the 'Blue Admin' plugin from the available list of plugins
-
-6: Activate the plugin.
-	
-	
-Please help me, I'm stuck!
-------------------------------------
-We all know people need help with editing from time to time, which is why I offer free help in numerus way's. If you  need support please post on this plugin's [support](http://linesh.com/forums/forum/plugins/blue-admin/) page.
-
-	
-
-	::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-	:: Thanks for downloading this plugin! Have a good day! :: 
-	:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: 
+## License
+Blue Admin is licensed under [GNU General Public License v2 (or later)](./LICENSE.md).
