@@ -15,7 +15,7 @@ This is a simple and clear admin design that makes your **WordPress** administra
 7. Free of cost
 
 ## Download
-Yoy can download latest version from [WordPress.org](https://wordpress.org/plugins/blue-admin/).
+You can download latest version from [WordPress.org](https://wordpress.org/plugins/blue-admin/).
 
 ## Troubleshooting
 If you have any problems running Blue Admin, [Support Forum](https://linesh.com/forums/forum/plugins/blue-admin/).
