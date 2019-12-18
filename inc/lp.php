@@ -48,7 +48,7 @@ if(ba_get_option('blue_admin_login_page') =='1')
 				$size=array();
 				echo '
 					h1{
-						width: 100px !important;
+						width: 100% !important;
 						height: 100px !important;
 						margin: 0 auto 10px !important;
 					}
@@ -57,12 +57,18 @@ if(ba_get_option('blue_admin_login_page') =='1')
 						margin: 0 auto 10px!important;
 						outline:none !important;
 						/*width: 100px !important;
-						height: 100px !important;*/
+						height: 100px !important;
 						max-width: 100px !important;
 						max-height: 100px !important;
 						
 						overflow: initial !important;
-						background-size: cover !important;
+						background-size: cover !important;*/
+						
+						/* login logo width automatic */
+						width: 285px !important;
+						height: 85px !important;
+						background-size: contain !important;
+						background-position: center center !important;
 					}
 					.login form {
 						padding:20px !important;
